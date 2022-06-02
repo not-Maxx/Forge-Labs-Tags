@@ -6,29 +6,29 @@ A table of tags that shows what category its in.
 | Name | Category | Status |
 | :-:  | :------: | :----: |
 | arcticraft | modpack | &check; |
-| bedrock | important | &cross; |
-| cfshaders | installation |&cross; |
-| curseforge | installation |&cross; |
-| english | other |&cross; |
-| fabric | important |&cross; |
-| forge | important |&cross; |
+| bedrock | important | &check; |
+| cfshaders | installation |&check; |
+| curseforge | installation |&check; |
+| english | other |&check; |
+| fabric | important |&check; |
+| forge | important |&check; |
 | horror | modpack | &check; |
 | hunted | modpack | &check; |
 | islanublar | modpack | &check; |
-| map | important | &cross; |
+| map | important | &check; |
 | medieval | modpack | &check; |
 | modpack | modpack | &check; |
 | morph | modpack | &check; |
 | mutation | modpack | &check; |
-| optifine | installation |&cross; |
+| optifine | installation |&check; |
 | parasite | modpack | &check; |
 | realistic | modpack | &check; |
 | rivermonster | modpack | &check; |
 | rlcraft | modpack | &check; |
 | scp | modpack | &check; |
-| server | other | &cross; |
-| specs | other | &cross; |
+| server | other | &check; |
+| specs | other | &check; |
 | ungabunga | modpack | &check; |
-| unzip | help | &cross; |
-| videocreation | other | &cross; |
+| unzip | help | &check; |
+| videocreation | other | &check; |
 | zombieapoc | modpack | &check; |
