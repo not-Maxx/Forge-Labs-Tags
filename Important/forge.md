@@ -1,0 +1,1 @@
+This is the Discord Server for the YouTuber Forge Labs, not the Minecraft Forge mod loader. You can find the Forge Discord Server here: <https://discord.gg/forge>

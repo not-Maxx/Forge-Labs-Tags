@@ -1,0 +1,1 @@
+The modpacks will **NOT** work on bedrock edition.

@@ -1,0 +1,1 @@
+We can only guarantee help with modpacks created by Forge Labs. Other questions regarding CurseForge can be directed to their official discord server at <https://discord.gg/curseforge>

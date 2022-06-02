@@ -1,0 +1,1 @@
+If you have questions regarding fabric mods, you can ask them here: https://discord.gg/v6v4pMv
