@@ -1,34 +1,32 @@
 # Table of all tags
 A table of tags that shows what category its in.
 
-**WIP**
-
 | Name | Category | Status |
 | :-:  | :------: | :----: |
-| [arcticraft](Modpacks/arcticraft.md) | modpack | &check; |
-| [bedrock](Important/bedrock.md) | important | &check; |
-| [cfshaders](Installation/cfshaders.md) | installation |&check; |
-| [curseforge](Installation/curseforge.md) | installation |&check; |
-| [english](Other/english.md) | other |&check; |
-| [fabric](Important/fabric.md) | important |&check; |
-| [forge](Important/forge.md) | important |&check; |
-| [horror](Modpacks/horror.md) | modpack | &check; |
-| [hunted](Modpacks/hunted.md) | modpack | &check; |
-| [islanublar](Modpacks/islanublar.md) | modpack | &check; |
-| [map](Important/map.md) | important | &check; |
-| [medieval](Modpacks/medieval.md) | modpack | &check; |
-| [modpack](Modpacks/modpack.md) | modpack | &check; |
-| [morph](Modpacks/morph.md) | modpack | &check; |
-| [mutation](Modpacks/mutation.md) | modpack | &check; |
-| [optifine](Installation/optifine.md) | installation |&check; |
-| [parasite](Modpacks/parasite.md) | modpack | &check; |
-| [realistic](Modpacks/realistic.md) | modpack | &check; |
-| [rivermonster](Modpacks/rivermonster.md) | modpack | &check; |
-| [rlcraft](Modpacks/rlcraft.md) | modpack | &check; |
-| [scp](Modpacks/scp.md) | modpack | &check; |
-| [server](Other/server.md) | other | &check; |
-| [specs](Other/specs.md) | other | &check; |
-| [ungabunga](Modpacks/ungabunga.md) | modpack | &check; |
-| [unzip](Help/unzip.md) | help | &check; |
-| [videocreation](Other/videocreation.md) | other | &check; |
-| [zombieapoc](Modpacks/zombieapoc.md) | modpack | &check; |
+| [arcticraft](Modpacks/arcticraft.md) | [modpack](/Modpacks/) | &check;|
+| [bedrock](Important/bedrock.md) | [important](/Important/) | &check; |
+| [cfshaders](Installation/cfshaders.md) | [installation](/Installation/) |&check; |
+| [curseforge](Installation/curseforge.md) | [installation](/Installation/) |&check; |
+| [english](Other/english.md) | [other](/Other/) |&check; |
+| [fabric](Important/fabric.md) | [important](/Important/) |&check; |
+| [forge](Important/forge.md) | [important](/Important/) |&check; |
+| [horror](Modpacks/horror.md) | [modpack](/Modpacks/) | &check; |
+| [hunted](Modpacks/hunted.md) | [modpack](/Modpacks/) | &check; |
+| [islanublar](Modpacks/islanublar.md) | [modpack](/Modpacks/) | &check; |
+| [map](Important/map.md) | [important](/Important/) | &check; |
+| [medieval](Modpacks/medieval.md) | [modpack](/Modpacks/) | &check; |
+| [modpack](Modpacks/modpack.md) | [modpack](/Modpacks/) | &check; |
+| [morph](Modpacks/morph.md) | [modpack](/Modpacks/) | &check; |
+| [mutation](Modpacks/mutation.md) | [modpack](/Modpacks/) | &check; |
+| [optifine](Installation/optifine.md) | [installation](/Installation/) |&check; |
+| [parasite](Modpacks/parasite.md) | [modpack](/Modpacks/) | &check; |
+| [realistic](Modpacks/realistic.md) | [modpack](/Modpacks/) | &check; |
+| [rivermonster](Modpacks/rivermonster.md) | [modpack](/Modpacks/) | &check; |
+| [rlcraft](Modpacks/rlcraft.md) | [modpack](/Modpacks/) | &check; |
+| [scp](Modpacks/scp.md) | [modpack](/Modpacks/) | &check; |
+| [server](Other/server.md) | [other](/Other/) | &check; |
+| [specs](Other/specs.md) | [other](/Other/) | &check; |
+| [ungabunga](Modpacks/ungabunga.md) | [modpack](/Modpacks/) | &check; |
+| [unzip](Help/unzip.md) | [help](/Help/) | &check; |
+| [videocreation](Other/videocreation.md) | [other](/Other/) | &check; |
+| [zombieapoc](Modpacks/zombieapoc.md) | [modpack](/Modpacks/) | &check; |
