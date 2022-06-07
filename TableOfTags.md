@@ -1,6 +1,8 @@
 # Table of all tags
 A table of tags that shows what category its in.
 
+**TIP:** Click on a name or category to see the contents!
+
 | Name | Category | Status |
 | :-:  | :------: | :----: |
 | [arcticraft](Modpacks/arcticraft.md) | [modpack](/Modpacks/) | &check;|
