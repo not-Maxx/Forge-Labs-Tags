@@ -1,0 +1,1 @@
+To make your game look like the Minecraft Trailer, follow all of the steps provided in this video: https://www.youtube.com/watch?v=yZ_Ppfg886A
