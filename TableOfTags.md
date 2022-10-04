@@ -7,8 +7,9 @@ A table of tags that shows what category its in.
 | :-:  | :------: | :----: |
 | [arcticraft](Modpacks/arcticraft.md) | [modpack](/Modpacks/) | &check;|
 | [bedrock](Important/bedrock.md) | [important](/Important/) | &check; |
-| [cfshaders](Installation/cfshaders.md) | [installation](/Installation/) |&check; |
-| [curseforge](Installation/curseforge.md) | [installation](/Installation/) |&check; |
+| [cfshaders](Installation/cfshaders.md) | [installation](/Installation/) | &check; |
+| [curseforge](Installation/curseforge.md) | [installation](/Installation/) | &check; |
+| [daldar](Modpacks/daldar.md) | [modpack](/Modpacks/) | &cross; |
 | [english](Other/english.md) | [other](/Other/) |&check; |
 | [fabric](Important/fabric.md) | [important](/Important/) |&check; |
 | [forge](Important/forge.md) | [important](/Important/) |&check; |
@@ -28,7 +29,9 @@ A table of tags that shows what category its in.
 | [scp](Modpacks/scp.md) | [modpack](/Modpacks/) | &check; |
 | [server](Other/server.md) | [other](/Other/) | &check; |
 | [specs](Other/specs.md) | [other](/Other/) | &check; |
+| [trailer](Modpacks/trailer.md) | [modpack](/Modpacks/) | &cross; |
 | [ungabunga](Modpacks/ungabunga.md) | [modpack](/Modpacks/) | &check; |
 | [unzip](Help/unzip.md) | [help](/Help/) | &check; |
 | [videocreation](Other/videocreation.md) | [other](/Other/) | &check; |
+| [zombieSimulation](Modpack/zombieSimulation) | [modpack](/Modpacks/) | &cross; |
 | [zombieapoc](Modpacks/zombieapoc.md) | [modpack](/Modpacks/) | &check; |
